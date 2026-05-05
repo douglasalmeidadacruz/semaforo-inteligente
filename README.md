@@ -30,7 +30,7 @@ semaforo-inteligente/
 ├── README.md
 ├── main.c
 ├── Docs/
-│   └── Documentacao-JoseMateusRamiris.docx
+│   └── Documentacao-DouglasAlmeidadaCruz.docx
 └── Evidencias/
     └── prints/
     
