@@ -43,8 +43,3 @@ semaforo-inteligente/
 6. Ambas: Vermelho (segurança)
 7. Reinicia o ciclo
 
-- Melhorias futuras:
-Implementação com Arduino
-Uso de sensores de fluxo
-Interface gráfica
-Controle automático inteligente (IoT)
