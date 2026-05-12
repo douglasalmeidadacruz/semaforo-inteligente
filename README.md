@@ -10,7 +10,7 @@
   
 - Descrição resumida do funcionamento: O sistema simula o comportamento de dois semáforos:
 Via principal (maior fluxo)
-Via secundária (menor fluxo
+Via secundária (menor fluxo)
 O programa alterna automaticamente os sinais:
 Verde → Amarelo → Vermelho
 Regras principais:
